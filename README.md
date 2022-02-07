@@ -4,14 +4,13 @@
 
 Sou um programador que acredita que o propósito da profissão não é escrever código, mas sim resolver problemas!
 
----
-
+<br>
+  
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=for-the-badge&logo=javascript)
 ![NODEJS](https://img.shields.io/badge/-NODEJS-05122A?style=for-the-badge&logo=node.js)
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-05122A?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)
 
----
 
 #### Como me encontrar?
 
