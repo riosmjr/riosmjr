@@ -14,7 +14,7 @@ Sou um programador que acredita que o propósito da profissão não é escrever 
 
 #### Como me encontrar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-Clayton%20Rios-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonrios)](https://www.linkedin.com/in/claytonrios)
-[![Gmail Badge](https://img.shields.io/badge/-junioorrioos06@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junioorrioos06@gmail.com)](mailto:junioorrioos06@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonrios)](https://www.linkedin.com/in/claytonrios)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0077B5?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:riosmjr_@outlook.com)](mailto:riosmjr_@outlook.com)
 
 </div>
